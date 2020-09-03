@@ -10,7 +10,7 @@ namespace BlobManager
     {
         private const string blobServiceEndpoint = "https://mediastorlallo.blob.core.windows.net/";
         private const string storageAccountName = "mediastorlallo";
-        private const string storageAccountKey = "FPNuzHHREByla5dTDPWvEGUQuj2vUBo3zIP1plwlNyyK3hCDpFY+ZcXf4/BP1NFZvD5hb9nbwRA13ad8MkWlLg==";
+        private const string storageAccountKey = "myKey";
         
        public static async Task Main(string[] args)
         {
