@@ -1,0 +1,4 @@
+bin/
+obj/
+# Except this file
+!.gitignore
