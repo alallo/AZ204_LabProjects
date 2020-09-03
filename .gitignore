@@ -1,4 +1,2 @@
-bin/
-obj/
-# Except this file
-!.gitignore
+Lab03/bin/
+Lab03/obj/
