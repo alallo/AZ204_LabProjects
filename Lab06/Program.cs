@@ -8,10 +8,10 @@ using Microsoft.Graph.Auth;
 
 namespace GraphClient
 {
-    class Program
+    public class Program
     {
-        private const string _clientId = "ec4a2e38-a2ad-4bb9-ab34-4897a11604c1";
-        private const string _tenantId = "383da738-edda-4d40-9934-c26a29d21789";
+        private const string _clientId = "myClientId";
+        private const string _tenantId = "myTenantId";
 
         public static async Task Main(string[] args)
         {
